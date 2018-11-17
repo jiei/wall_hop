@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -Wall -Wextra -Wno-long-long -pedantic   CMakeFiles/simple_pendulum.dir/simple_pendulum.cpp.o  -o simple_pendulum -rdynamic -lpython3.5m 
